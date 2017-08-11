@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Gallery\n"
+"POT-Creation-Date: 2016-10-02 22:45-0500\n"
+"PO-Revision-Date: 2016-10-02 22:45-0500\n"
+"Last-Translator: \n"
+"Language-Team: SuitePlugins <info@suiteplugins.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/templates/gallery-list.php:9
+#: ../includes/class-um-gallery-template.php:147
+msgid "Albums"
+msgstr ""
+
+#: ../admin/templates/gallery-list.php:48
+#: ../templates/um-gallery/albums.php:31
+msgid "No albums found"
+msgstr ""
+
+#: ../admin/templates/gallery-view.php:3
+msgid "No album selected. Go back and try again"
+msgstr ""
+
+#: ../admin/templates/gallery-view.php:12
+msgid "Album"
+msgstr ""
+
+#: ../admin/templates/gallery-view.php:35
+msgid "No photos found"
+msgstr ""
+
+#: ../classes/EDD_SL_Plugin_Updater.php:196
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../classes/EDD_SL_Plugin_Updater.php:204
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: ../classes/EDD_SL_Plugin_Updater.php:358
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../classes/EDD_SL_Plugin_Updater.php:358
+msgid "Error"
+msgstr ""
+
+#: ../includes/class-um-gallery-template.php:59
+#: ../includes/um-gallery-admin.php:212
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/class-um-gallery-template.php:101
+msgid "Add Photo"
+msgstr ""
+
+#: ../includes/class-um-gallery-template.php:118
+msgid "Back to Albums"
+msgstr ""
+
+#: ../includes/class-um-gallery-template.php:149
+msgid "Add Album"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:21 ../includes/um-gallery-admin.php:22
+msgid "UM Gallery"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:29 ../includes/um-gallery-admin.php:30
+msgid "Settings"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:98
+msgid "Show on Main Tab"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:100
+msgid ""
+"If enabled, recent photo uploads will be placed on a user's profile main tab"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:101 ../includes/um-gallery-admin.php:145
+#: ../includes/um-gallery-admin.php:154 ../includes/um-gallery-admin.php:163
+#: ../includes/um-gallery-admin.php:172
+msgid "Yes"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:102 ../includes/um-gallery-admin.php:146
+#: ../includes/um-gallery-admin.php:155 ../includes/um-gallery-admin.php:164
+#: ../includes/um-gallery-admin.php:173
+msgid "No"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:108 ../includes/um-gallery-admin.php:179
+msgid "Profile Layout Type"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:109
+msgid "Select the type of layout for photos on the main tab"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:112 ../includes/um-gallery-admin.php:183
+msgid "Carousel"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:113 ../includes/um-gallery-admin.php:184
+msgid "Grid"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:114 ../includes/um-gallery-admin.php:185
+msgid "Slideshow"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:116 ../includes/um-gallery-admin.php:187
+msgid "Choose layout..."
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:121
+msgid "Photos on profile"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:122
+msgid "Set the number of photos on profile"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:128
+msgid "Number of items in Carousel"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:129
+msgid "Set the number of photos to display in Carousel"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:135
+msgid "Number of seconds for Autoplay"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:136
+msgid "Set the Slideshow/Carousel Autoplay in seconds"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:142
+msgid "AutoPlay Slideshow/Carousel"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:144
+msgid "If enabled, the gallery will auto play on a user's profile page"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:151
+msgid "Show Gallery Tab"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:153
+msgid "If enabled, a gallery tab will be placed on a user's profile page"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:160
+msgid "Turn Pagination On/Off"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:162
+msgid "Enable this to display Pagination"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:169
+msgid "Turn AutoHeight On/Off"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:171
+msgid "Enable this to turn AutoHeight on"
+msgstr ""
+
+#: ../includes/um-gallery-admin.php:180
+msgid "Select the type of layout for gallery on gallery tab"
+msgstr ""
+
+#: ../includes/um-gallery-ajax.php:66
+msgid "Untitled Album"
+msgstr ""
+
+#: ../includes/um-gallery-functions.php:114
+#, php-format
+msgid "%s photo"
+msgstr ""
+
+#: ../templates/um-gallery/manage/album-form.php:4
+msgid "Manage Album"
+msgstr ""
+
+#: ../templates/um-gallery/manage/album-form.php:9
+#: ../templates/um-gallery/manage/album-form.php:10
+msgid "Enter Album Name"
+msgstr ""
+
+#: ../templates/um-gallery/manage/album-form.php:25 ../um-gallery.php:178
+msgid "Save"
+msgstr ""
+
+#: ../templates/um-gallery/manage/album-form.php:26 ../um-gallery.php:180
+msgid "Cancel"
+msgstr ""
+
+#: ../um-gallery.php:179
+msgid "<i class=\"um-faicon-pencil\"></i> Edit Caption"
+msgstr ""
+
+#: ../um-gallery.php:183
+msgid "Upload your photos"
+msgstr ""
+
+#: ../um-gallery.php:184
+msgid "Upload Complete"
+msgstr ""
+
+#: ../um-gallery.php:185
+msgid "No photos found."
+msgstr ""
